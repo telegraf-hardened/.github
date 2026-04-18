@@ -31,14 +31,6 @@ We believe in open collaboration. Whether you are fixing a typo or implementing 
 1. Check out our [Roadmap](https://github.com/telegraf-hardened/telegraf-hardened/issues/1).
 2. Open a Pull Request or report a Bug.
 3. Help us translate documentation for global developers.
-
----
-
-## 🍿 Fun Facts
-* Our main developer is based in **Stuttgart, Germany** 🇩🇪.
-* We believe that **privacy is a human right** and **code is the law**.
-* We eat `npm install` for breakfast and debug `async/await` for dinner.
-
 ---
 
 **[Maintainer: @siakinnik](https://github.com/siakinnik)** | **[Join the Telegram discussion](https://t.me/siakinnik)**

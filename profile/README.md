@@ -6,7 +6,7 @@ We are a community-led organization dedicated to maintaining and improving the *
 
 ## Why Telegraf Hardened?
 
-* **Up-to-Date:** While upstream is stuck in 2024, we are working on providing full support for **Telegram Bot API 7.3 – 7.8+**.
+* **Up-to-Date:** While upstream is stuck in 2024, we are working on providing full support for **Telegram Bot API 7.3 - 7.8+**.
 * **Fail-Fast Architecture:** Strict input validation and improved TypeScript types to catch bugs before they reach production.
 <!--
 * **Censorship Resistant:** Built-in support for **Tor** and **SOCKS5/HTTP** proxies. Designed specifically to help developers in restricted regions (like behind the GFW) keep their bots online without expensive VPNs.
@@ -16,8 +16,8 @@ We are a community-led organization dedicated to maintaining and improving the *
 
 ## Repos
 
-* [**telegraf-hardened**](./telegraf-hardened) — The core framework. Optimized, patched, and ready for action.
-* [**types**](./types) — (Coming Soon) Modern, high-precision TypeScript types for the Telegram Bot API.
+* [**telegraf-hardened**](https://github.com/telegraf-hardened/telegraf-hardened) - The core framework. Optimized, patched, and ready for action.
+* [**types**](https://github.com/telegraf-hardened/types) - TypeScript types for the Telegram Bot API.
 <!--
 * [**proxy-providers**](./proxy-providers) — (In Progress) Modular providers for Tor and advanced proxy routing.
 -->
@@ -33,7 +33,7 @@ We believe in open collaboration. Whether you are fixing a typo or implementing 
 3. Help us translate documentation for global developers.
 ---
 
-**[Maintainer: @siakinnik](https://github.com/siakinnik)** | **[Join the Telegram discussion](https://t.me/siakinnik)**
+**[Maintainer: @siakinnik](https://github.com/siakinnik)** | **[Join the telegraf-hardened Telegram](https://t.me/telegraf_hardened)**
 <!--
 
 **Here are some ideas to get you started:**

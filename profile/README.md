@@ -12,7 +12,6 @@ We are a community-led organization dedicated to maintaining and improving the *
 * **Censorship Resistant:** Built-in support for **Tor** and **SOCKS5/HTTP** proxies. Designed specifically to help developers in restricted regions (like behind the GFW) keep their bots online without expensive VPNs.
 -->
 * **Community First:** Abandoned PRs from the original repository are reviewed and integrated here.
-* 
 ---
 
 ## Repos

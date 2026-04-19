@@ -24,7 +24,7 @@ We are a community-led organization dedicated to maintaining and improving the *
 
 ---
 
-## 👩‍💻 Get Involved
+## Get Involved
 
 We believe in open collaboration. Whether you are fixing a typo or implementing a new Bot API method, your contribution is welcome!
 

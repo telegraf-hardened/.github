@@ -18,6 +18,7 @@ We are a community-led organization dedicated to maintaining and improving the *
 
 * [**telegraf-hardened**](https://github.com/telegraf-hardened/telegraf-hardened) - The core framework. Optimized, patched, and ready for action.
 * [**types**](https://github.com/telegraf-hardened/types) - TypeScript types for the Telegram Bot API.
+* [**fecth**](https://github.com/telegraf-hardened/fetch) - A production-ready, zero-dependency (almost) native fetch wrapper for Node.js 18+ with http(s) and SOCKS proxy support.
 <!--
 * [**proxy-providers**](./proxy-providers) — (In Progress) Modular providers for Tor and advanced proxy routing.
 -->

@@ -33,13 +33,6 @@ We believe in open collaboration. Whether you are fixing a typo or implementing 
 1. Check out our [Roadmap](https://github.com/telegraf-hardened/telegraf-hardened/issues/1).
 2. Open a Pull Request or report a Bug.
 3. Help us translate documentation for global developers.
----
-
-### 🏮 Support & Infrastructure
-I develop and maintain open-source projects for free. If you find my work useful and want to support server costs or hardware experiments, you can send a voluntary gift (**Schenkung**) here: [donate.md](https://github.com/siakinnik/siakinnik/blob/main/donate.md)
-
-> [!NOTE]
-> All contributions are strictly voluntary gifts. No commercial services, advantages, or private support are provided in return. Stay decentralized.
 
 ---
 
